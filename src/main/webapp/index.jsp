@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 stype="colour: green">Deployed using Jenkins and Ansible test!! -May 31,2022</h2>
+<h2>Deployed using Jenkins and Ansible test!! -June 28,2022</h2>
 </body>
 </html>
